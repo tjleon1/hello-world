@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository
+This repository is my first
+I am the director of ProTech Network, and I'm learning git, something new.
+
+
